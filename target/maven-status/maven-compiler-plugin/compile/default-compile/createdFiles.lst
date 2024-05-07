@@ -1,0 +1,7 @@
+SQL\MetodosSQL.class
+model\Persona.class
+SERVLETS\login.class
+com\mycompany\login2024\JAXRSConfiguration.class
+com\mycompany\login2024\resources\JavaEE8Resource.class
+SQL\connector.class
+servelet\LoginServlet.class
